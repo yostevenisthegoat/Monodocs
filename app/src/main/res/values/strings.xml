@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mono Docs</string>
+    <string name="tagline">Open Anything. Convert Anything.</string>
+    <string name="by_mono_ecosystem">An application by Mono Ecosystem</string>
+    <string name="error_unsupported_format">This file format is not currently supported by Mono Docs.</string>
+    <string name="error_corrupted_file">Mono Docs couldn\'t read this file. It may be damaged.</string>
+    <string name="error_insufficient_storage">Not enough storage space to complete this operation.</string>
+    <string name="error_conversion_failed">Conversion failed. Your original file has not been modified.</string>
+</resources>

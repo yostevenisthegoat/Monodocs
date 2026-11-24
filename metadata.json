@@ -1,0 +1,6 @@
+{
+  "name": "Mono Docs",
+  "description": "Universal offline file opener, viewer, converter, and file utility by Mono Ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
